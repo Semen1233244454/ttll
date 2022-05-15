@@ -1,0 +1,90 @@
+body {
+  font-family: sans-serif;
+  
+   background-image: url("https://thumbs.gfycat.com/AnguishedContentBuffalo-size_restricted.gif");
+   
+}
+body img{
+    opacity: 0.10;
+}
+
+header {
+  background-color:white;
+  padding: 40px 0px 40px 25px;
+  border-radius:15px;
+    border:3px solid red;
+ 
+  background-image: url("https://www.likeni.ru/upload/medialibrary/419/7.gif");
+}
+
+
+
+.link-header {
+  padding: 5px 10px 5px 10px;
+  font-size: 36px;
+  text-decoration: none;
+  color: white;
+}
+
+nav {
+  padding: 35px 40px 0px 40px;
+  color: white;
+}
+
+.link-nav {
+  color: white;
+  font-size: 24px;
+  margin-right: 35px;
+  text-decoration: none;
+  border-bottom: 2px solid white;
+}
+
+h1 {
+  text-align: center;
+  color: #2AB428;
+  font-size: 96px;
+}
+
+p {
+  font-size: 24px;
+  margin-left: 60px;
+}
+
+ul {
+  font-size: 24px;
+  list-style: url("https://mars.algoritmika.org/uploads/2021/04/Arrow%201_0_1618309609.png");
+  margin-left: 60px;
+}
+
+li {
+  margin-bottom: 20px;
+}
+
+ol {
+  font-size: 24px;
+  margin-left: 60px;
+}
+
+.text-big {
+  font-size: 48px;
+  margin-left: 60px;
+}
+  
+.link-text {
+  color: white;
+  text-decoration: none;
+  border-bottom: 2px solid rgb(255, 238, 163);
+}
+
+h2 {
+  color: white;
+  font-size: 64px;
+}
+
+footer {
+  padding: 65px 0px 80px 80px;
+}
+
+.social {
+  margin-right: 60px;
+}
